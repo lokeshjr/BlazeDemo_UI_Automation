@@ -105,8 +105,27 @@ public class PurchasePage extends DriverFactory {
 		uActions.type(driver, month, Integer.toString(ccMonth));
 		uActions.clearAndType(driver, year, Integer.toString(ccYear));
 		uActions.clearAndType(driver, nameOnCard, userName);
-		uActions.tap(driver, purchaseFlight);
 
+	}
+	
+	/**
+	 * check Remember Me option
+	 * 
+	 * @throws AutomationException
+	 */
+	public void checkRememberMeOption() throws AutomationException {
+		
+		uActions.tap(driver, rememberMeCheckBox);
+	}
+	
+	/**
+	 * click on purchase flight
+	 * 
+	 * @throws AutomationException
+	 */
+	public void clickOnPurchaseFlight() throws AutomationException {
+		
+		uActions.tap(driver, purchaseFlight);
 	}
 
 }
