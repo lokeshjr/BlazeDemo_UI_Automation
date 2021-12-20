@@ -1,0 +1,22 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Blaze Demo UI Automation Tests" parallel="tests"
+	thread-count="2" configfailurepolicy="continue">
+
+
+	<test name="Blaze_Demo_Test_Chrome " preserve-order="true">
+		<parameter name="browserName" value="chrome" />
+
+
+		<classes>
+			<class name="com.blazedemo.testcases.Blaze_Demo_Test" />
+
+		</classes>
+	</test>
+
+	<test name="Blaze_Demo_Test_FF" preserve-order="true">
+		<parameter name="browserName" value="firefox" />
+		<classes>
+			<class name="com.blazedemo.testcases.Blaze_Demo_Test" />
+		</classes>
+	</test>
+</suite>

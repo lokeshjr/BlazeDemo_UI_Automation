@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="2" configfailurepolicy="continue" guice-stage="DEVELOPMENT" name="Failed suite [Blaze Demo UI Automation Tests]" parallel="tests">
+  <test thread-count="2" name="Blaze_Demo_Test_FF(failed)" parallel="tests">
+    <parameter name="browserName" value="firefox"/>
+    <classes>
+      <class name="com.blazedemo.testcases.Blaze_Demo_Test">
+        <methods>
+          <include name="verifyDepartureAndDestinationCities"/>
+          <include name="tearDownMethod"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.blazedemo.testcases.Blaze_Demo_Test -->
+    </classes>
+  </test> <!-- Blaze_Demo_Test_FF(failed) -->
+  <test thread-count="2" name="Blaze_Demo_Test_Chrome (failed)" parallel="tests">
+    <parameter name="browserName" value="chrome"/>
+    <classes>
+      <class name="com.blazedemo.testcases.Blaze_Demo_Test">
+        <methods>
+          <include name="verifyDepartureAndDestinationCities"/>
+          <include name="tearDownMethod"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.blazedemo.testcases.Blaze_Demo_Test -->
+    </classes>
+  </test> <!-- Blaze_Demo_Test_Chrome (failed) -->
+</suite> <!-- Failed suite [Blaze Demo UI Automation Tests] -->

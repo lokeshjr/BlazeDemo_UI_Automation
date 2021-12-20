@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[https://blazedemo.com/index.php is loaded successfully]]>
+    </line>
+    <line>
+      <![CDATA[Element: [[ChromeDriver: chrome on MAC (98ac8eff2817d862b394edd84a2ada6a)] -> css selector: select[name="fromPort"]]is selected]]>
+    </line>
+    <line>
+      <![CDATA[Element: [[ChromeDriver: chrome on MAC (98ac8eff2817d862b394edd84a2ada6a)] -> css selector: select[name="toPort"]]is selected]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on [[ChromeDriver: chrome on MAC (98ac8eff2817d862b394edd84a2ada6a)] -> css selector: input[type="submit"]]]]>
+    </line>
+    <line>
+      <![CDATA[Data Marlyn Blick successfully entered into [[ChromeDriver: chrome on MAC (98ac8eff2817d862b394edd84a2ada6a)] -> id: inputName]]]>
+    </line>
+    <line>
+      <![CDATA[Data Apt. 054 2354 Kling Spurs, Okunevafurt, AL 24287-3894 successfully entered into [[ChromeDriver: chrome on MAC (98ac8eff2817d862b394edd84a2ada6a)] -> id: address]]]>
+    </line>
+    <line>
+      <![CDATA[Data East Angeliabury successfully entered into [[ChromeDriver: chrome on MAC (98ac8eff2817d862b394edd84a2ada6a)] -> id: city]]]>
+    </line>
+    <line>
+      <![CDATA[Data West Virginia successfully entered into [[ChromeDriver: chrome on MAC (98ac8eff2817d862b394edd84a2ada6a)] -> id: state]]]>
+    </line>
+    <line>
+      <![CDATA[Data 21496 successfully entered into [[ChromeDriver: chrome on MAC (98ac8eff2817d862b394edd84a2ada6a)] -> id: zipCode]]]>
+    </line>
+    <line>
+      <![CDATA[Element: [[ChromeDriver: chrome on MAC (98ac8eff2817d862b394edd84a2ada6a)] -> id: cardType]is selected]]>
+    </line>
+    <line>
+      <![CDATA[Data 1212-1221-1121-1234 successfully entered into [[ChromeDriver: chrome on MAC (98ac8eff2817d862b394edd84a2ada6a)] -> id: creditCardNumber]]]>
+    </line>
+    <line>
+      <![CDATA[Data 5 successfully entered into [[ChromeDriver: chrome on MAC (98ac8eff2817d862b394edd84a2ada6a)] -> id: creditCardMonth]]]>
+    </line>
+    <line>
+      <![CDATA[https://blazedemo.com/index.php is loaded successfully]]>
+    </line>
+    <line>
+      <![CDATA[Element: [[FirefoxDriver: firefox on MAC (94a5e01f-a8e3-4cd9-a304-4bad27eb8740)] -> css selector: select[name="fromPort"]]is selected]]>
+    </line>
+    <line>
+      <![CDATA[Data 2004 successfully entered into [[ChromeDriver: chrome on MAC (98ac8eff2817d862b394edd84a2ada6a)] -> id: creditCardYear]]]>
+    </line>
+    <line>
+      <![CDATA[Element: [[FirefoxDriver: firefox on MAC (94a5e01f-a8e3-4cd9-a304-4bad27eb8740)] -> css selector: select[name="toPort"]]is selected]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on [[FirefoxDriver: firefox on MAC (94a5e01f-a8e3-4cd9-a304-4bad27eb8740)] -> css selector: input[type="submit"]]]]>
+    </line>
+    <line>
+      <![CDATA[Data Marlyn Blick successfully entered into [[ChromeDriver: chrome on MAC (98ac8eff2817d862b394edd84a2ada6a)] -> id: nameOnCard]]]>
+    </line>
+    <line>
+      <![CDATA[Data Mr. Cristobal Mayer successfully entered into [[FirefoxDriver: firefox on MAC (94a5e01f-a8e3-4cd9-a304-4bad27eb8740)] -> id: inputName]]]>
+    </line>
+    <line>
+      <![CDATA[Data 123 Gutmann Stravenue, Rickyport, CT 85155-8311 successfully entered into [[FirefoxDriver: firefox on MAC (94a5e01f-a8e3-4cd9-a304-4bad27eb8740)] -> id: address]]]>
+    </line>
+    <line>
+      <![CDATA[Data Guillermoshire successfully entered into [[FirefoxDriver: firefox on MAC (94a5e01f-a8e3-4cd9-a304-4bad27eb8740)] -> id: city]]]>
+    </line>
+    <line>
+      <![CDATA[Data Oregon successfully entered into [[FirefoxDriver: firefox on MAC (94a5e01f-a8e3-4cd9-a304-4bad27eb8740)] -> id: state]]]>
+    </line>
+    <line>
+      <![CDATA[Data 09895 successfully entered into [[FirefoxDriver: firefox on MAC (94a5e01f-a8e3-4cd9-a304-4bad27eb8740)] -> id: zipCode]]]>
+    </line>
+    <line>
+      <![CDATA[Element: [[FirefoxDriver: firefox on MAC (94a5e01f-a8e3-4cd9-a304-4bad27eb8740)] -> id: cardType]is selected]]>
+    </line>
+    <line>
+      <![CDATA[Data 1234-2121-1221-1211 successfully entered into [[FirefoxDriver: firefox on MAC (94a5e01f-a8e3-4cd9-a304-4bad27eb8740)] -> id: creditCardNumber]]]>
+    </line>
+    <line>
+      <![CDATA[Data 9 successfully entered into [[FirefoxDriver: firefox on MAC (94a5e01f-a8e3-4cd9-a304-4bad27eb8740)] -> id: creditCardMonth]]]>
+    </line>
+    <line>
+      <![CDATA[Data 2011 successfully entered into [[FirefoxDriver: firefox on MAC (94a5e01f-a8e3-4cd9-a304-4bad27eb8740)] -> id: creditCardYear]]]>
+    </line>
+    <line>
+      <![CDATA[Data Mr. Cristobal Mayer successfully entered into [[FirefoxDriver: firefox on MAC (94a5e01f-a8e3-4cd9-a304-4bad27eb8740)] -> id: nameOnCard]]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Proxy element for: DefaultElementLocator 'By.xpath: //input[@type='submit']']]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Proxy element for: DefaultElementLocator 'By.xpath: //input[@type='submit']']]>
+    </line>
+  </reporter-output>
+  <suite name="Blaze Demo UI Automation Tests" duration-ms="26637" started-at="2021-12-19T23:23:10 IST" finished-at="2021-12-19T23:23:37 IST">
+    <groups>
+    </groups>
+    <test name="Blaze_Demo_Test_Chrome " duration-ms="25558" started-at="2021-12-19T23:23:10 IST" finished-at="2021-12-19T23:23:36 IST">
+      <class name="com.blazedemo.testcases.Blaze_Demo_Test">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.blazedemo.testcases.Blaze_Demo_Test@4516af24]" name="setup" is-config="true" duration-ms="6766" started-at="2021-12-19T23:23:11 IST" finished-at="2021-12-19T23:23:18 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyBookingFlight()[pri:0, instance:com.blazedemo.testcases.Blaze_Demo_Test@4516af24]" name="verifyBookingFlight" duration-ms="18136" started-at="2021-12-19T23:23:18 IST" description="Verify booking flight functionality" finished-at="2021-12-19T23:23:36 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[https://blazedemo.com/index.php is loaded successfully]]>
+            </line>
+            <line>
+              <![CDATA[Element: [[ChromeDriver: chrome on MAC (98ac8eff2817d862b394edd84a2ada6a)] -> css selector: select[name="fromPort"]]is selected]]>
+            </line>
+            <line>
+              <![CDATA[Element: [[ChromeDriver: chrome on MAC (98ac8eff2817d862b394edd84a2ada6a)] -> css selector: select[name="toPort"]]is selected]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on [[ChromeDriver: chrome on MAC (98ac8eff2817d862b394edd84a2ada6a)] -> css selector: input[type="submit"]]]]>
+            </line>
+            <line>
+              <![CDATA[Data Marlyn Blick successfully entered into [[ChromeDriver: chrome on MAC (98ac8eff2817d862b394edd84a2ada6a)] -> id: inputName]]]>
+            </line>
+            <line>
+              <![CDATA[Data Apt. 054 2354 Kling Spurs, Okunevafurt, AL 24287-3894 successfully entered into [[ChromeDriver: chrome on MAC (98ac8eff2817d862b394edd84a2ada6a)] -> id: address]]]>
+            </line>
+            <line>
+              <![CDATA[Data East Angeliabury successfully entered into [[ChromeDriver: chrome on MAC (98ac8eff2817d862b394edd84a2ada6a)] -> id: city]]]>
+            </line>
+            <line>
+              <![CDATA[Data West Virginia successfully entered into [[ChromeDriver: chrome on MAC (98ac8eff2817d862b394edd84a2ada6a)] -> id: state]]]>
+            </line>
+            <line>
+              <![CDATA[Data 21496 successfully entered into [[ChromeDriver: chrome on MAC (98ac8eff2817d862b394edd84a2ada6a)] -> id: zipCode]]]>
+            </line>
+            <line>
+              <![CDATA[Element: [[ChromeDriver: chrome on MAC (98ac8eff2817d862b394edd84a2ada6a)] -> id: cardType]is selected]]>
+            </line>
+            <line>
+              <![CDATA[Data 1212-1221-1121-1234 successfully entered into [[ChromeDriver: chrome on MAC (98ac8eff2817d862b394edd84a2ada6a)] -> id: creditCardNumber]]]>
+            </line>
+            <line>
+              <![CDATA[Data 5 successfully entered into [[ChromeDriver: chrome on MAC (98ac8eff2817d862b394edd84a2ada6a)] -> id: creditCardMonth]]]>
+            </line>
+            <line>
+              <![CDATA[Data 2004 successfully entered into [[ChromeDriver: chrome on MAC (98ac8eff2817d862b394edd84a2ada6a)] -> id: creditCardYear]]]>
+            </line>
+            <line>
+              <![CDATA[Data Marlyn Blick successfully entered into [[ChromeDriver: chrome on MAC (98ac8eff2817d862b394edd84a2ada6a)] -> id: nameOnCard]]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Proxy element for: DefaultElementLocator 'By.xpath: //input[@type='submit']']]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyBookingFlight -->
+      </class> <!-- com.blazedemo.testcases.Blaze_Demo_Test -->
+    </test> <!-- Blaze_Demo_Test_Chrome  -->
+    <test name="Blaze_Demo_Test_FF" duration-ms="26637" started-at="2021-12-19T23:23:10 IST" finished-at="2021-12-19T23:23:37 IST">
+      <class name="com.blazedemo.testcases.Blaze_Demo_Test">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.blazedemo.testcases.Blaze_Demo_Test@71d15f18]" name="setup" is-config="true" duration-ms="11023" started-at="2021-12-19T23:23:11 IST" finished-at="2021-12-19T23:23:22 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyBookingFlight()[pri:0, instance:com.blazedemo.testcases.Blaze_Demo_Test@71d15f18]" name="verifyBookingFlight" duration-ms="14985" started-at="2021-12-19T23:23:22 IST" description="Verify booking flight functionality" finished-at="2021-12-19T23:23:37 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[https://blazedemo.com/index.php is loaded successfully]]>
+            </line>
+            <line>
+              <![CDATA[Element: [[FirefoxDriver: firefox on MAC (94a5e01f-a8e3-4cd9-a304-4bad27eb8740)] -> css selector: select[name="fromPort"]]is selected]]>
+            </line>
+            <line>
+              <![CDATA[Element: [[FirefoxDriver: firefox on MAC (94a5e01f-a8e3-4cd9-a304-4bad27eb8740)] -> css selector: select[name="toPort"]]is selected]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on [[FirefoxDriver: firefox on MAC (94a5e01f-a8e3-4cd9-a304-4bad27eb8740)] -> css selector: input[type="submit"]]]]>
+            </line>
+            <line>
+              <![CDATA[Data Mr. Cristobal Mayer successfully entered into [[FirefoxDriver: firefox on MAC (94a5e01f-a8e3-4cd9-a304-4bad27eb8740)] -> id: inputName]]]>
+            </line>
+            <line>
+              <![CDATA[Data 123 Gutmann Stravenue, Rickyport, CT 85155-8311 successfully entered into [[FirefoxDriver: firefox on MAC (94a5e01f-a8e3-4cd9-a304-4bad27eb8740)] -> id: address]]]>
+            </line>
+            <line>
+              <![CDATA[Data Guillermoshire successfully entered into [[FirefoxDriver: firefox on MAC (94a5e01f-a8e3-4cd9-a304-4bad27eb8740)] -> id: city]]]>
+            </line>
+            <line>
+              <![CDATA[Data Oregon successfully entered into [[FirefoxDriver: firefox on MAC (94a5e01f-a8e3-4cd9-a304-4bad27eb8740)] -> id: state]]]>
+            </line>
+            <line>
+              <![CDATA[Data 09895 successfully entered into [[FirefoxDriver: firefox on MAC (94a5e01f-a8e3-4cd9-a304-4bad27eb8740)] -> id: zipCode]]]>
+            </line>
+            <line>
+              <![CDATA[Element: [[FirefoxDriver: firefox on MAC (94a5e01f-a8e3-4cd9-a304-4bad27eb8740)] -> id: cardType]is selected]]>
+            </line>
+            <line>
+              <![CDATA[Data 1234-2121-1221-1211 successfully entered into [[FirefoxDriver: firefox on MAC (94a5e01f-a8e3-4cd9-a304-4bad27eb8740)] -> id: creditCardNumber]]]>
+            </line>
+            <line>
+              <![CDATA[Data 9 successfully entered into [[FirefoxDriver: firefox on MAC (94a5e01f-a8e3-4cd9-a304-4bad27eb8740)] -> id: creditCardMonth]]]>
+            </line>
+            <line>
+              <![CDATA[Data 2011 successfully entered into [[FirefoxDriver: firefox on MAC (94a5e01f-a8e3-4cd9-a304-4bad27eb8740)] -> id: creditCardYear]]]>
+            </line>
+            <line>
+              <![CDATA[Data Mr. Cristobal Mayer successfully entered into [[FirefoxDriver: firefox on MAC (94a5e01f-a8e3-4cd9-a304-4bad27eb8740)] -> id: nameOnCard]]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Proxy element for: DefaultElementLocator 'By.xpath: //input[@type='submit']']]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyBookingFlight -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:com.blazedemo.testcases.Blaze_Demo_Test@71d15f18]" name="tearDownMethod" is-config="true" duration-ms="1159" started-at="2021-12-19T23:23:37 IST" finished-at="2021-12-19T23:23:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+      </class> <!-- com.blazedemo.testcases.Blaze_Demo_Test -->
+    </test> <!-- Blaze_Demo_Test_FF -->
+  </suite> <!-- Blaze Demo UI Automation Tests -->
+</testng-results>
